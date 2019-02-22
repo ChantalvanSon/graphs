@@ -1,0 +1,9 @@
+digraph {
+	pred [label=lost]
+	A1 [label="her daughter over
+"]
+	pred -> A1 [label="thing lost"]
+	"AM-TMP" [label="two years ago
+"]
+	pred -> "AM-TMP" [label=time]
+}
