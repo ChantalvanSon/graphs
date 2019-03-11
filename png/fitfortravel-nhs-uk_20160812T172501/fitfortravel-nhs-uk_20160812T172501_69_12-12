@@ -1,0 +1,12 @@
+digraph {
+	pred [label=avoidance]
+	"AM-MNR" [label=strict
+]
+	pred -> "AM-MNR" [label=manner]
+	"A1 " [label="mosquito bite
+"]
+	pred -> "A1 " [label="thing avoided"]
+	"A1  " [label="at all times
+"]
+	pred -> "A1  " [label="thing avoided"]
+}

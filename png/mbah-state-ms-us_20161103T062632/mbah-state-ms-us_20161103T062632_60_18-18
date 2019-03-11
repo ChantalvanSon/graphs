@@ -1,0 +1,15 @@
+digraph {
+	pred [label=isolation]
+	A1 [label="the animal
+"]
+	pred -> A1 [label="entity isolated"]
+	"A1 " [label="If the owner is unwilling to have this
+done , the animal should be placed in
+strict isolation for 6 months and vaccinated 1
+month before being released .
+"]
+	pred -> "A1 " [label="entity isolated"]
+	"AM-MNR  " [label=strict
+]
+	pred -> "AM-MNR  " [label=manner]
+}
