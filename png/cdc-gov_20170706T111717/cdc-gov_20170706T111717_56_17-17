@@ -1,0 +1,12 @@
+digraph {
+	pred [label=guidelines]
+	"AM-MNR" [label=strict
+]
+	pred -> "AM-MNR" [label=manner]
+	"A2 " [label=manufacturing
+]
+	pred -> "A2 " [label="guided in/through"]
+	"A0  " [label="strict manufacturing guidelines
+"]
+	pred -> "A0  " [label="guide, agent"]
+}

@@ -1,0 +1,9 @@
+digraph {
+	pred [label=monitoring]
+	"AM-MNR" [label=strict
+]
+	pred -> "AM-MNR" [label=manner]
+	"A1 " [label=medical
+]
+	pred -> "A1 " [label="thing looked at"]
+}
