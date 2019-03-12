@@ -1,9 +1,0 @@
-digraph {
-	pred [label=maintenance]
-	"AM-MNR" [label=strict
-]
-	pred -> "AM-MNR" [label=manner]
-	"A1 " [label="of sterilization standards
-"]
-	pred -> "A1 " [label="thing maintained"]
-}

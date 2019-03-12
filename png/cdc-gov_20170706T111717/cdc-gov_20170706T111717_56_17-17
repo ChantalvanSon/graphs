@@ -1,9 +1,0 @@
-digraph {
-	pred [label=guidelines]
-	"AM-MNR" [label=strict
-]
-	pred -> "AM-MNR" [label=manner]
-	"A2 " [label=manufacturing
-]
-	pred -> "A2 " [label="guided in/through"]
-}
